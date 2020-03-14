@@ -1,0 +1,77 @@
+C:\Users\Com\source\repos\game3\game3\bin\Debug\game3.exe.config
+C:\Users\Com\source\repos\game3\game3\bin\Debug\game3.exe
+C:\Users\Com\source\repos\game3\game3\bin\Debug\game3.pdb
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.csprojAssemblyReference.cache
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form1.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Properties.Resources.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.csproj.GenerateResource.cache
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.exe
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.pdb
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form2.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form3.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form10.resources
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\bin\Debug\game3.exe.config
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\bin\Debug\game3.exe
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\bin\Debug\game3.pdb
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.csprojAssemblyReference.cache
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.Form10.resources
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.Form2.resources
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.Form3.resources
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.Form1.resources
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.Properties.Resources.resources
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.csproj.GenerateResource.cache
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.exe
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.pdb
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.Form4.resources
+C:\Users\Both\Documents\projact_game_C#\projact_game_c-\game3\game3\obj\Debug\game3.Form5.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form4.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form5.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form8.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form9.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Form15.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.MainForm.resources
+C:\Users\Com\source\repos\game3\game3\obj\Debug\game3.Menu.resources
+C:\Users\Com\Desktop\New folder (2)\game3\bin\Debug\game3.exe.config
+C:\Users\Com\Desktop\New folder (2)\game3\bin\Debug\game3.exe
+C:\Users\Com\Desktop\New folder (2)\game3\bin\Debug\game3.pdb
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form10.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form15.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form2.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form3.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form1.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form4.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form5.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form8.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Form9.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.MainForm.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Menu.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.Properties.Resources.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.csproj.GenerateResource.cache
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.exe
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.pdb
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.csprojAssemblyReference.cache
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.panal1.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.RegisterForm.resources
+C:\Users\Com\Desktop\New folder (2)\game3\obj\Debug\game3.csproj.CopyComplete
+C:\Users\Com\source\repos\game3\bin\Debug\game3.exe.config
+C:\Users\Com\source\repos\game3\bin\Debug\game3.exe
+C:\Users\Com\source\repos\game3\bin\Debug\game3.pdb
+C:\Users\Com\source\repos\game3\obj\Debug\game3.csprojAssemblyReference.cache
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form10.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form15.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form2.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form3.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form1.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form4.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form5.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form8.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Form9.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.panal1.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.MainForm.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Menu.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.Properties.Resources.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.RegisterForm.resources
+C:\Users\Com\source\repos\game3\obj\Debug\game3.csproj.GenerateResource.cache
+C:\Users\Com\source\repos\game3\obj\Debug\game3.csproj.CopyComplete
+C:\Users\Com\source\repos\game3\obj\Debug\game3.exe
+C:\Users\Com\source\repos\game3\obj\Debug\game3.pdb
